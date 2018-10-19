@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radarz</title>
+    <link>/</link>
+    <description>Recent content on Radarz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jun 2015 13:50:46 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Computer Repair and Service</title>
+      <link>/post/crs-page/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>/post/crs-page/</guid>
+      <description>Radarz Radar post comming soon</description>
+    </item>
+    
+    <item>
+      <title>Scrolling LED Boards</title>
+      <link>/post/sled/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>/post/sled/</guid>
+      <description>Radarz post comming soon</description>
+    </item>
+    
+    <item>
+      <title>CCTV Installation</title>
+      <link>/post/cctv/</link>
+      <pubDate>Tue, 30 May 2017 16:56:43 +0200</pubDate>
+      
+      <guid>/post/cctv/</guid>
+      <description>Radarz Radar post comming soon</description>
+    </item>
+    
+    <item>
+      <title>Final Year Projects and Mini Projects</title>
+      <link>/post/project/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>/post/project/</guid>
+      <description>Electronics based Project Help Contact for mini project, Design paper ideas and final year project , abstract , components and fabrication for low cost and guaranteed working models .
+Final year projects and Mini projects under taken are EC,Mechatronics, Mechanical, EEE, Robotics.</description>
+    </item>
+    
+    <item>
+      <title>Career</title>
+      <link>/career/</link>
+      <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
+      
+      <guid>/career/</guid>
+      <description>To build up a career for the young master mind&amp;rsquo;s, here we provide you the best opportunity to cope up your talent in the field of digital world. To enhance electronic works and marketing spirit&amp;hellip; come and join us</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>/contact/</link>
+      <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Sajin James sajinjames15@gmail.com
++91 8907494936
++91 6282203815
+www.facebook.com/sajinjames15
+Darrel Daniel reachdd@email.com</description>
+    </item>
+    
+    <item>
+      <title>Our Mission</title>
+      <link>/mission/</link>
+      <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
+      
+      <guid>/mission/</guid>
+      <description>Our mission is to unlock the real power of digital vision with robust and the best service with in affordable rate. To synchronize and enrich your field ,by a team of smart and capable engineers</description>
+    </item>
+    
+  </channel>
+</rss>
