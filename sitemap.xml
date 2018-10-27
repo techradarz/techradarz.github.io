@@ -3,38 +3,99 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/crs-page/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/sled/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/cctv/</loc>
-    <lastmod>2017-05-30T16:56:43+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/project/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/career/</loc>
-    <lastmod>2017-06-07T15:36:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/contact/</loc>
-    <lastmod>2017-06-07T15:36:00+05:30</lastmod>
+    <loc>/blog/</loc>
+    <lastmod>2018-07-15T12:32:37+06:00</lastmod>
   </url>
   
   <url>
     <loc>/mission/</loc>
-    <lastmod>2017-06-07T15:36:00+05:30</lastmod>
+    <lastmod>2018-07-15T12:32:37+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/a-new-year-a-new-posibility/</loc>
+    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mission/a-new-year-a-new-posibility/</loc>
+    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/building-an-online-audience/</loc>
+    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mission/building-an-online-audience/</loc>
+    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/space-shouldnt-be-the-final-frontier/</loc>
+    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mission/space-shouldnt-be-the-final-frontier/</loc>
+    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2018-07-14T17:09:20+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/gallery/</loc>
+    <lastmod>2018-07-14T16:19:08+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/service/</loc>
+    <lastmod>2018-07-14T12:58:14+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/caramel-bottle/</loc>
+    <lastmod>2018-07-12T16:59:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/shopping-bag-concept/</loc>
+    <lastmod>2018-07-12T16:58:55+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/makeup-element/</loc>
+    <lastmod>2018-07-12T16:57:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/table-design/</loc>
+    <lastmod>2018-07-12T16:56:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/bottle-mockup/</loc>
+    <lastmod>2018-07-12T16:54:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/dew-drop/</loc>
+    <lastmod>2018-07-12T16:53:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/business/</loc>
+    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -43,19 +104,50 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>/tags/inspiration/</loc>
+    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/internet/</loc>
+    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/motivation/</loc>
+    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/people/</loc>
+    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/portfolio/</loc>
+    <lastmod>2018-07-12T16:59:54+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tech/</loc>
+    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
     <priority>0</priority>
   </url>
   
