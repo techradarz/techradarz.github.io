@@ -99,6 +99,12 @@
   </url>
   
   <url>
+    <loc>/tags/anydesk/</loc>
+    <lastmod>2018-09-15T12:27:38+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/business/</loc>
     <lastmod>2018-07-15T12:21:58+06:00</lastmod>
     <priority>0</priority>
@@ -171,7 +177,7 @@
   
   <url>
     <loc>/tags/tech/</loc>
-    <lastmod>2018-09-15T12:27:38+06:00</lastmod>
+    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
     <priority>0</priority>
   </url>
   
