@@ -88,11 +88,6 @@
   </url>
   
   <url>
-    <loc>/portfolio/led/</loc>
-    <lastmod>2018-07-12T16:54:54+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/portfolio/pcb-design/</loc>
     <lastmod>2018-07-12T16:54:54+06:00</lastmod>
   </url>
@@ -110,6 +105,11 @@
   <url>
     <loc>/portfolio/search-engine-optimisation/</loc>
     <lastmod>2018-07-12T16:53:54+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/led/</loc>
+    <lastmod>2016-01-12T16:54:54+06:00</lastmod>
   </url>
   
   <url>
