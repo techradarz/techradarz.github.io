@@ -1,0 +1,164 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 01 Feb 2022 13:57:18 at localhost/radars +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" localhost/radars -O1 "C:\My Web Sites\reach" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:43:05	Warning: 	Moved Permanently for localhost/radars/?post_type=post&p=4843
+14:43:05	Warning: 	File has moved from localhost/radars/?post_type=post&p=4843 to http://localhost/radars/full-list-of-restaurant-chains-plans-for-reopening-pizza-express-nandos-and-zizzi/
+14:43:05	Warning: 	Moved Permanently for localhost/radars/?post_type=post&p=4895
+14:43:05	Warning: 	File has moved from localhost/radars/?post_type=post&p=4895 to http://localhost/radars/improve-your-mood-by-saving-money-this-international-happiness-day-with-our-top-tips-2/
+14:43:05	Warning: 	Moved Permanently for localhost/radars/?post_type=post&p=4899
+14:43:05	Warning: 	File has moved from localhost/radars/?post_type=post&p=4899 to http://localhost/radars/jofra-archer-to-undergo-surgery-on-hand-ipl-participation-uncertain/
+14:43:05	Warning: 	Moved Permanently for localhost/radars/?post_type=post&p=4905
+14:43:05	Warning: 	File has moved from localhost/radars/?post_type=post&p=4905 to http://localhost/radars/bobby-brown-autopsy-reveals-he-died-from-alcohol-cocaine-and-fentanyl-his-death/
+14:43:05	Warning: 	Moved Permanently for localhost/radars/?post_type=post&p=4911
+14:43:05	Warning: 	File has moved from localhost/radars/?post_type=post&p=4911 to http://localhost/radars/the-destinations-around-the-world-open-to-travelers-vaccinated-against-covid-19/
+14:43:05	Warning: 	Moved Permanently for localhost/radars/?post_type=post&p=6215
+14:43:05	Warning: 	File has moved from localhost/radars/?post_type=post&p=6215 to http://localhost/radars/how-the-seychelles-is-racing-to-become-the-worlds-safest-destination-in-the-world/
+14:43:06	Warning: 	Moved Permanently for localhost/radars/?post_type=post&p=6200
+14:43:06	Warning: 	File has moved from localhost/radars/?post_type=post&p=6200 to http://localhost/radars/when-can-we-go-on-vacation-again-this-is-what-experts-say-about-the-future/
+14:43:06	Warning: 	Moved Permanently for localhost/radars/?post_type=post&p=6197
+14:43:06	Warning: 	File has moved from localhost/radars/?post_type=post&p=6197 to http://localhost/radars/us-fried-chicken-chain-popeyes-to-open-hundreds-of-uk-branches-are-closed-2/
+14:43:34	Warning: 	Moved Permanently for localhost/radars/?post_type=post&p=6194
+14:43:34	Warning: 	File has moved from localhost/radars/?post_type=post&p=6194 to http://localhost/radars/full-list-of-restaurant-chains-plans-for-reopening-pizza-express-nandos-and-zizzi-3/
+14:43:34	Warning: 	Moved Permanently for localhost/radars/?post_type=post&p=6192
+14:43:34	Warning: 	File has moved from localhost/radars/?post_type=post&p=6192 to http://localhost/radars/gemma-collins-reveals-slimmed-down-face-after-gruelling-workouts-and-new-diet-2/
+14:46:16	Error: 	"Not Found" (404) at link localhost/radars/wp-content/plugins/element-ready-lite/assets/nature-sprite.png (from localhost/radars/wp-content/plugins/element-ready-lite/assets/css/widgets.min.css?ver=5.8.3)
+14:46:16	Error: 	"Not Found" (404) at link localhost/radars/wp-content/plugins/element-ready-lite/assets/urban-sprite.png (from localhost/radars/wp-content/plugins/element-ready-lite/assets/css/widgets.min.css?ver=5.8.3)
+14:46:16	Error: 	"Not Found" (404) at link localhost/radars/wp-content/plugins/element-ready-lite/assets/nature-sprite-2.png?raw=true (from localhost/radars/wp-content/plugins/element-ready-lite/assets/css/widgets.min.css?ver=5.8.3)
+14:46:21	Error: 	"Not Found" (404) at link localhost/radars/wp-content/plugins/element-ready-lite/assets/img/owl.video.play.png (from localhost/radars/wp-content/plugins/element-ready-lite/assets/css/owl.carousel.css?ver=5.8.3)
+14:46:21	Error: 	"Not Found" (404) at link localhost/radars/wp-content/plugins/element-ready-lite/assets/fonts/slick.eot (from localhost/radars/wp-content/plugins/element-ready-lite/assets/css/slick.min.css?ver=5.8.3)
+14:46:21	Error: 	"Not Found" (404) at link localhost/radars/wp-content/plugins/element-ready-lite/assets/fonts/slick.eot? (from localhost/radars/wp-content/plugins/element-ready-lite/assets/css/slick.min.css?ver=5.8.3)
+14:46:21	Error: 	"Not Found" (404) at link localhost/radars/wp-content/plugins/element-ready-lite/assets/fonts/slick.svg (from localhost/radars/wp-content/plugins/element-ready-lite/assets/css/slick.min.css?ver=5.8.3)
+14:46:22	Warning: 	Moved Permanently for localhost/radars/?p=6215
+14:46:22	Warning: 	File has moved from localhost/radars/?p=6215 to http://localhost/radars/how-the-seychelles-is-racing-to-become-the-worlds-safest-destination-in-the-world/
+14:46:22	Error: 	"Method Not Allowed" (405) at link localhost/radars/xmlrpc.php (from localhost/radars/how-the-seychelles-is-racing-to-become-the-worlds-safest-destination-in-the-world/)
+14:48:42	Warning: 	Moved Permanently for localhost/radars/?p=6200
+14:48:42	Warning: 	File has moved from localhost/radars/?p=6200 to http://localhost/radars/when-can-we-go-on-vacation-again-this-is-what-experts-say-about-the-future/
+14:48:42	Warning: 	Moved Permanently for localhost/radars/?p=6197
+14:48:42	Warning: 	File has moved from localhost/radars/?p=6197 to http://localhost/radars/us-fried-chicken-chain-popeyes-to-open-hundreds-of-uk-branches-are-closed-2/
+14:51:45	Warning: 	Moved Permanently for localhost/radars/?p=6194
+14:51:45	Warning: 	File has moved from localhost/radars/?p=6194 to http://localhost/radars/full-list-of-restaurant-chains-plans-for-reopening-pizza-express-nandos-and-zizzi-3/
+14:51:45	Warning: 	Moved Permanently for localhost/radars/?p=6192
+14:51:45	Warning: 	File has moved from localhost/radars/?p=6192 to http://localhost/radars/gemma-collins-reveals-slimmed-down-face-after-gruelling-workouts-and-new-diet-2/
+14:51:45	Warning: 	Moved Permanently for localhost/radars/?p=6190
+14:51:45	Warning: 	File has moved from localhost/radars/?p=6190 to http://localhost/radars/daily-chinese-horoscope-saturday-march-what-your-zodiac-sign-has-store-you-today-2/
+14:51:45	Warning: 	Moved Permanently for localhost/radars/?p=6188
+14:51:45	Warning: 	File has moved from localhost/radars/?p=6188 to http://localhost/radars/us-fried-chicken-chain-popeyes-to-open-hundreds-of-uk-branches-are-closed/
+14:52:12	Warning: 	Moved Permanently for localhost/radars/?p=6185
+14:52:12	Warning: 	File has moved from localhost/radars/?p=6185 to http://localhost/radars/full-list-of-restaurant-chains-plans-for-reopening-pizza-express-nandos-and-zizzi-2/
+14:52:12	Warning: 	Moved Permanently for localhost/radars/?p=6183
+14:52:12	Warning: 	File has moved from localhost/radars/?p=6183 to http://localhost/radars/catherine-giudici-reflects-on-representing-people-of-color-in-the-bachelor-copy-2-copy-copy-2-copy-copy-copy/
+14:52:12	Warning: 	Moved Permanently for localhost/radars/?p=6181
+14:52:12	Warning: 	File has moved from localhost/radars/?p=6181 to http://localhost/radars/gemma-collins-reveals-slimmed-down-face-after-gruelling-workouts-and-new-diet/
+14:52:12	Warning: 	Moved Permanently for localhost/radars/?p=4802
+14:52:12	Warning: 	File has moved from localhost/radars/?p=4802 to http://localhost/radars/supermarket-lockdown-rules-for-tesco-asda-sainsburys-aldi-morrisons-lidl-and-m/
+14:52:32	Warning: 	Moved Permanently for localhost/radars/?p=5205
+14:52:32	Warning: 	File has moved from localhost/radars/?p=5205 to http://localhost/radars/jessica-simpson-includes-heartbreaking-entry-about-ex-nick-lachey-in-paperback-edition-of-open-book/
+14:52:51	Warning: 	Moved Permanently for localhost/radars/?p=4895
+14:52:51	Warning: 	File has moved from localhost/radars/?p=4895 to http://localhost/radars/improve-your-mood-by-saving-money-this-international-happiness-day-with-our-top-tips-2/
+14:52:51	Warning: 	Moved Permanently for localhost/radars/?p=4899
+14:52:51	Warning: 	File has moved from localhost/radars/?p=4899 to http://localhost/radars/jofra-archer-to-undergo-surgery-on-hand-ipl-participation-uncertain/
+14:53:20	Warning: 	Moved Permanently for localhost/radars/?p=5173
+14:53:20	Warning: 	File has moved from localhost/radars/?p=5173 to http://localhost/radars/teacher-suspended-for-showing-prophet-muhammad-cartoon-defends-free-speech/
+14:53:20	Warning: 	Moved Permanently for localhost/radars/?p=5222
+14:53:20	Warning: 	File has moved from localhost/radars/?p=5222 to http://localhost/radars/supermarket-lockdown-rules-for-tesco-asda-sainsburys-aldi-morrisons-lidl-and-m-2/
+14:53:57	Warning: 	Moved Permanently for localhost/radars/?p=5255
+14:53:57	Warning: 	File has moved from localhost/radars/?p=5255 to http://localhost/radars/keep-your-vacuum-cleaner-on-track-with-expert-tips-to-prolong-its-long-life-journey/
+14:55:16	Warning: 	Moved Permanently for localhost/radars/?p=5252
+14:55:16	Warning: 	File has moved from localhost/radars/?p=5252 to http://localhost/radars/as-young-people-leave-lockdown-british-health-leaders-face-a-new-challenge-2/
+14:55:30	Warning: 	Moved Permanently for localhost/radars/?p=5196
+14:55:30	Warning: 	File has moved from localhost/radars/?p=5196 to http://localhost/radars/as-young-people-leave-lockdown-british-health-leaders-face-a-new-challenge/
+14:55:30	Warning: 	Moved Permanently for localhost/radars/?p=5202
+14:55:30	Warning: 	File has moved from localhost/radars/?p=5202 to http://localhost/radars/mansion-global-daily-green-homes-are-growing-home-sales-up-in-british-columbia-and-more/
+14:55:30	Warning: 	Moved Permanently for localhost/radars/?p=5190
+14:55:30	Warning: 	File has moved from localhost/radars/?p=5190 to http://localhost/radars/boris-johnson-tells-brits-lockdown-easing-will-go-ahead-on-schedule-and-vows/
+14:57:37	Warning: 	Moved Permanently for localhost/radars/?p=4133
+14:57:37	Warning: 	File has moved from localhost/radars/?p=4133 to http://localhost/radars/contact/
+14:57:59	Warning: 	Moved Permanently for localhost/radars/?p=6179
+14:57:59	Warning: 	File has moved from localhost/radars/?p=6179 to http://localhost/radars/daily-chinese-horoscope-saturday-march-what-your-zodiac-sign-has-store-you-today/
+14:57:59	Warning: 	Moved Permanently for localhost/radars/?p=6156
+14:57:59	Warning: 	File has moved from localhost/radars/?p=6156 to http://localhost/radars/half-a-million-tons-of-recycling-dumped-or-incinerated-every-year-shock-stats-show/
+14:57:59	Warning: 	Moved Permanently for localhost/radars/?p=4911
+14:57:59	Warning: 	File has moved from localhost/radars/?p=4911 to http://localhost/radars/the-destinations-around-the-world-open-to-travelers-vaccinated-against-covid-19/
+14:58:08	Warning: 	Moved Permanently for localhost/radars/?p=5229
+14:58:08	Warning: 	File has moved from localhost/radars/?p=5229 to http://localhost/radars/why-its-easier-to-succeed-with-cricket-match-than-you-might-think/
+14:58:08	Warning: 	Moved Permanently for localhost/radars/?p=4958
+14:58:08	Warning: 	File has moved from localhost/radars/?p=4958 to http://localhost/radars/seven-struggles-only-people-love-football-industry-will-understand/
+14:58:08	Warning: 	Moved Permanently for localhost/radars/?p=4919
+14:58:08	Warning: 	File has moved from localhost/radars/?p=4919 to http://localhost/radars/former-england-captain-karen-smithies-sues-for-alleged-discrimination/
+14:58:08	Warning: 	Moved Permanently for localhost/radars/?p=4941
+14:58:08	Warning: 	File has moved from localhost/radars/?p=4941 to http://localhost/radars/with-series-on-the-line-deciding-england-set-up-to-be-fitting-tour-finale/
+14:58:08	Warning: 	Moved Permanently for localhost/radars/?p=4976
+14:58:08	Warning: 	File has moved from localhost/radars/?p=4976 to http://localhost/radars/winston-churchill-and-the-union-jack-should-make-us-feel-warm-and-gooey-inside/
+14:58:08	Warning: 	Moved Permanently for localhost/radars/?p=5193
+14:58:08	Warning: 	File has moved from localhost/radars/?p=5193 to http://localhost/radars/miley-cyrus-seen-here-with-co-star-emily-osmand-in-an-episode-of-hannah-montana-in-june/
+14:58:08	Warning: 	Moved Permanently for localhost/radars/?p=5198
+14:58:08	Warning: 	File has moved from localhost/radars/?p=5198 to http://localhost/radars/supermarket-lockdown-rules-for-tesco-asda-sainsburys-aldi-morrisons-lidl-and-m-3/
+14:58:08	Warning: 	Moved Permanently for localhost/radars/?p=6151
+14:58:08	Warning: 	File has moved from localhost/radars/?p=6151 to http://localhost/radars/asda-is-set-to-launch-its-first-ever-loyalty-card-scheme-giving-shoppers-money-off-groceries/
+14:58:24	Warning: 	Moved Permanently for localhost/radars/?p=6149
+14:58:24	Warning: 	File has moved from localhost/radars/?p=6149 to http://localhost/radars/inflation-slows-in-february-amid-falling-clothes-prices-and-rising-fuel-costs-rise-again/
+14:58:24	Warning: 	Moved Permanently for localhost/radars/?p=5244
+14:58:24	Warning: 	File has moved from localhost/radars/?p=5244 to http://localhost/radars/boost-your-lockdown-privacy-without-breaking-the-bank-with-our-top-tips/
+14:58:24	Warning: 	Moved Permanently for localhost/radars/?p=5390
+14:58:24	Warning: 	File has moved from localhost/radars/?p=5390 to http://localhost/radars/privacy-policy/
+14:58:26	Error: 	"Not Found" (404) at link localhost/radars/2022/01/ (from localhost/radars/2020/07/09/)
+14:58:26	Error: 	"Not Found" (404) at link localhost/radars/2022/03/ (from localhost/radars/2020/07/09/)
+14:58:26	Error: 	"Not Found" (404) at link localhost/radars/2022/04/ (from localhost/radars/2020/07/09/)
+14:58:26	Error: 	"Not Found" (404) at link localhost/radars/2022/05/ (from localhost/radars/2020/07/09/)
+14:58:26	Error: 	"Not Found" (404) at link localhost/radars/2022/06/ (from localhost/radars/2020/07/09/)
+14:58:26	Error: 	"Not Found" (404) at link localhost/radars/2022/07/ (from localhost/radars/2020/07/09/)
+14:58:26	Error: 	"Not Found" (404) at link localhost/radars/2022/08/ (from localhost/radars/2020/07/09/)
+14:58:26	Error: 	"Not Found" (404) at link localhost/radars/2022/09/ (from localhost/radars/2020/07/09/)
+14:58:26	Error: 	"Not Found" (404) at link localhost/radars/2019/ (from localhost/radars/2020/07/09/)
+14:58:32	Error: 	"Not Found" (404) at link localhost/radars/2021/ (from localhost/radars/2020/07/09/)
+14:58:33	Error: 	"Not Found" (404) at link localhost/radars/2022/ (from localhost/radars/2020/07/09/)
+14:58:34	Warning: 	Moved Permanently for localhost/radars/?p=6093
+14:58:34	Warning: 	File has moved from localhost/radars/?p=6093 to http://localhost/radars/the-purpose-is-share-strategies-and-insights-for-promoting-a-sustainable-future-through-marketing/
+14:58:34	Warning: 	Moved Permanently for localhost/radars/?p=6090
+14:58:34	Warning: 	File has moved from localhost/radars/?p=6090 to http://localhost/radars/east-bengal-and-kerala-blasters-have-lost-most-number-of-points-from-winning-position/
+14:58:39	Warning: 	Moved Permanently for localhost/radars/?p=4843
+14:58:39	Warning: 	File has moved from localhost/radars/?p=4843 to http://localhost/radars/full-list-of-restaurant-chains-plans-for-reopening-pizza-express-nandos-and-zizzi/
+14:58:39	Warning: 	Moved Permanently for localhost/radars/?p=5209
+14:58:39	Warning: 	File has moved from localhost/radars/?p=5209 to http://localhost/radars/teacher-suspended-for-showing-prophet-muhammad-cartoon-defends-free-speech-2/
+14:58:39	Warning: 	Moved Permanently for localhost/radars/?p=4905
+14:58:39	Warning: 	File has moved from localhost/radars/?p=4905 to http://localhost/radars/bobby-brown-autopsy-reveals-he-died-from-alcohol-cocaine-and-fentanyl-his-death/
+14:58:39	Warning: 	Moved Permanently for localhost/radars/?p=5220
+14:58:39	Warning: 	File has moved from localhost/radars/?p=5220 to http://localhost/radars/harris-gives-fiery-response-on-gun-reform-stop-with-the-false-choices-and-say-truth/
+14:58:39	Warning: 	Moved Permanently for localhost/radars/?p=5225
+14:58:39	Warning: 	File has moved from localhost/radars/?p=5225 to http://localhost/radars/improve-your-mood-by-saving-money-this-international-happiness-day-with-our-top-tips/
+14:58:39	Warning: 	Moved Permanently for localhost/radars/?p=6082
+14:58:39	Warning: 	File has moved from localhost/radars/?p=6082 to http://localhost/radars/china-has-unleashed-the-nationalist-genie-beijing-may-regret-letting-it-out-of-the-bottle/
+14:58:39	Warning: 	Moved Permanently for localhost/radars/?p=6120
+14:58:39	Warning: 	File has moved from localhost/radars/?p=6120 to http://localhost/radars/the-purpose-is-share-strategies-and-insights-for-promoting-a-sustainable-future-through-marketing-2/
+14:58:54	Warning: 	Moved Permanently for localhost/radars/?p=6117
+14:58:54	Warning: 	File has moved from localhost/radars/?p=6117 to http://localhost/radars/east-bengal-and-kerala-blasters-have-lost-most-number-of-points-from-winning-position-2/
+14:58:55	Warning: 	Moved Permanently for localhost/radars/?p=6106
+14:58:55	Warning: 	File has moved from localhost/radars/?p=6106 to http://localhost/radars/china-has-unleashed-the-nationalist-genie-beijing-may-regret-letting-it-out-of-the-bottle-2/
+14:58:55	Warning: 	Moved Permanently for localhost/radars/?p=5248
+14:58:55	Warning: 	File has moved from localhost/radars/?p=5248 to http://localhost/radars/winston-churchill-and-the-union-jack-should-make-us-feel-warm-and-gooey-inside-2/
+14:58:55	Warning: 	Moved Permanently for localhost/radars/?p=4969
+14:58:55	Warning: 	File has moved from localhost/radars/?p=4969 to http://localhost/radars/smith-snaps-crisps-sold-at-morrisons-and-tesco-recalled-due-to-choking-hazard-fears/
+14:58:55	Warning: 	Moved Permanently for localhost/radars/?p=6147
+14:58:55	Warning: 	File has moved from localhost/radars/?p=6147 to http://localhost/radars/how-unpaid-debts-are-sold-on-and-could-end-up-costing-you-hundreds-of-pounds-more/
+14:58:55	Warning: 	Moved Permanently for localhost/radars/?p=6144
+14:58:55	Warning: 	File has moved from localhost/radars/?p=6144 to http://localhost/radars/greene-king-now-taking-bookings-for-tables-in-pub-its-442-pub-gardens-how-to-book/
+14:58:55	Warning: 	Moved Permanently for localhost/radars/?p=5216
+14:58:55	Warning: 	File has moved from localhost/radars/?p=5216 to http://localhost/radars/britney-spears-attorney-files-petition-to-remove-her-father-from-overseeing-her-medical-decisions/
+14:58:55	Warning: 	Moved Permanently for localhost/radars/?p=4962
+14:58:55	Warning: 	File has moved from localhost/radars/?p=4962 to http://localhost/radars/reese-witherspoon-takes-to-instagram-to-celebrate-her-latest-sweet-hubby-of-10-years/
+14:58:55	Warning: 	Moved Permanently for localhost/radars/?p=5240
+14:58:55	Warning: 	File has moved from localhost/radars/?p=5240 to http://localhost/radars/use-these-travel-credit-cards-to-plan-a-post-pandemic-trip-in-2021-with-family/
+14:58:55	Warning: 	Moved Permanently for localhost/radars/?p=5236
+14:58:55	Warning: 	File has moved from localhost/radars/?p=5236 to http://localhost/radars/how-travelers-help-to-protect-the-outer-islands-of-the-seychelles-in-north/
+14:58:55	Warning: 	Moved Permanently for localhost/radars/?p=6096
+14:58:55	Warning: 	File has moved from localhost/radars/?p=6096 to http://localhost/radars/harris-gives-fiery-response-on-gun-reform-stop-with-the-false-choices-and-say-truth-2/
+14:58:55	Warning: 	Moved Permanently for localhost/radars/?p=5213
+14:58:55	Warning: 	File has moved from localhost/radars/?p=5213 to http://localhost/radars/smith-snaps-crisps-sold-at-morrisons-and-tesco-recalled-due-to-choking-hazard-fears-2/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 1 minutes 45 seconds : 917 links scanned, 830 files written (100114179 bytes overall) [101387374 bytes received at 27365 bytes/sec], 2.2 requests per connection
+(19 errors, 134 warnings, 0 messages)
