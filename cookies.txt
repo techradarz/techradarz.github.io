@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-localhost	TRUE	/radars/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
-localhost	TRUE	/	FALSE	1999999999	PHPSESSID	avgbh9l47gtehtpcevqfhp7o65
-
